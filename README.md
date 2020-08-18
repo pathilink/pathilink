@@ -32,15 +32,21 @@ Here are some ideas to get you started:
 
 - 💻 I've been focusing on: 
 
+<p>
 
 <img alt="python" src="https://img.shields.io/badge/-Python-023e8a?style=flat&logo=python&logoColor=white" />
+
 <img alt="sql" src="https://img.shields.io/badge/-SQL-023e8a?style=flat&logo=SQLite&logoColor=white" />
+
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-023e8a?style=flat&logo=html5&logoColor=white"/>
+
 <img alt="css3" src="https://img.shields.io/badge/-CSS-023e8a?style=flat&logo=css3&logoColor=white" />
+
 <img alt="git" src="https://img.shields.io/badge/-Git-023e8a?style=flat&logo=git&logoColor=white" />
 
 <!-- <img alt="r" src="https://img.shields.io/badge/-R-F05032?style=flat-square&logo=r&logoColor=white" /> -->
 
+</p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
 

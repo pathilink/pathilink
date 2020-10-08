@@ -46,17 +46,20 @@ Here are some ideas to get you started:
 </p>
 
 <center>
-<table>
-<tr>
-
-![Patrícia's github stats](https://github-readme-stats.vercel.app/api?username=pathilink&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathilink&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
+<!-- <table> -->
+    <tr>
+        <td><img width="50%" align="center" margin="auto" display="block" src="https://github-readme-stats.vercel.app/api?username=pathilink&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></td>      
+        <td><img width="50%" align="center" margin="auto" display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathilink&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></td>
+    </tr>   
+<!-- </table> -->
 </center>
-</table>
-</tr>
+
+<!-- ![Patrícia's github stats](https://github-readme-stats.vercel.app/api?username=pathilink&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathilink&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
+
+
 <!-- Purple Bliss - #360033, #0B8793 -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->

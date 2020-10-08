@@ -16,27 +16,23 @@ Here are some ideas to get you started:
 -->
 
 - 👩‍💻 I'm Patrícia do Nascimento. I'm a programmer and a data analyst from Sao Paulo - Brazil 🇧🇷
-- 🌱 I’m currently learning Python, SQL and Statistics.
+
 
 
 [![GitHub followers](https://img.shields.io/github/followers/pathilink?style=social)](https://www.github.com/pathilink)
 [![Linkedin Badge](https://img.shields.io/badge/-pathilink-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pathilink/)](https://www.linkedin.com/in/pathilink/)
 
-![Patrícia's github stats](https://github-readme-stats.vercel.app/api?username=pathilink&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathilink&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-
-<!-- Purple Bliss - #360033, #0B8793 -->
-
-- 💻 I've been focusing on: 
+- 🌱 I've been focusing on: 
 
 <p>
 
 <img alt="python" src="https://img.shields.io/badge/-Python-023e8a?style=flat&logo=python&logoColor=white" />
 
-<img alt="sql" src="https://img.shields.io/badge/-SQL-023e8a?style=flat&logo=SQLite&logoColor=white" />
+<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-023e8a?style=flat&logo=Jupyter&logoColor=white" />
+
+<img alt="postgres" src="https://img.shields.io/badge/-PostgreSQL-023e8a?style=flat&logo=PostgreSQL&logoColor=white" />
+
+<img alt="sqlite" src="https://img.shields.io/badge/-SQLite-023e8a?style=flat&logo=SQLite&logoColor=white" />
 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-023e8a?style=flat&logo=html5&logoColor=white"/>
 
@@ -44,9 +40,24 @@ Here are some ideas to get you started:
 
 <img alt="git" src="https://img.shields.io/badge/-Git-023e8a?style=flat&logo=git&logoColor=white" />
 
+
 <!-- <img alt="r" src="https://img.shields.io/badge/-R-F05032?style=flat-square&logo=r&logoColor=white" /> -->
 
 </p>
+
+<center>
+<table>
+<tr>
+
+![Patrícia's github stats](https://github-readme-stats.vercel.app/api?username=pathilink&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathilink&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+</center>
+</table>
+</tr>
+<!-- Purple Bliss - #360033, #0B8793 -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
 

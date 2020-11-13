@@ -1,4 +1,4 @@
-![capa](https://github.com/pathilink/pathilink/blob/master/hello.gif)
+![capa](https://github.com/pathilink/pathilink/blob/master/hw2.gif)
 
 <center>
     <table> 
@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 
 
 <!-- Purple Bliss - #360033, #0B8793 -->
+<!-- e96443,904e95 -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
 

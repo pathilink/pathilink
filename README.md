@@ -1,4 +1,8 @@
-### Hi there 👋
+![capa](https://github.com/pathilink/pathilink/blob/master/hello_world.gif)
+
+<!-- <img align="center" alt="GIF" src="hello_world.gif" width="100%"/> -->
+
+<!-- # Hi there 👋 -->
 
 <!--
 **pathilink/pathilink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,12 +21,10 @@ Here are some ideas to get you started:
 
 - 👩‍💻 I'm Patrícia do Nascimento. I'm a programmer and a data analyst from Sao Paulo - Brazil 🇧🇷
 
-
-
 [![GitHub followers](https://img.shields.io/github/followers/pathilink?style=social)](https://www.github.com/pathilink)
 [![Linkedin Badge](https://img.shields.io/badge/-pathilink-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pathilink/)](https://www.linkedin.com/in/pathilink/)
 
-- 🌱 I've been focusing on: 
+- 🌱 I've been focusing on:
 
 <p>
 
@@ -39,7 +41,6 @@ Here are some ideas to get you started:
 <img alt="css3" src="https://img.shields.io/badge/-CSS-023e8a?style=flat&logo=css3&logoColor=white" />
 
 <img alt="git" src="https://img.shields.io/badge/-Git-023e8a?style=flat&logo=git&logoColor=white" />
-
 
 <!-- <img alt="r" src="https://img.shields.io/badge/-R-F05032?style=flat-square&logo=r&logoColor=white" /> -->
 

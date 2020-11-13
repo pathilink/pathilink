@@ -1,5 +1,14 @@
 ![capa](https://github.com/pathilink/pathilink/blob/master/hello_world.gif)
 
+<center>
+    <table> 
+        <tr>
+            <td><img width="400px" align="left" margin="auto" display="block" src="https://github-readme-stats.vercel.app/api?username=pathilink&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></td>      
+            <td><img width="400px" align="left" margin="auto" display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathilink&hide=html&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></td>
+        </tr>   
+    </table>
+</center>
+
 <!-- <img align="center" alt="GIF" src="hello_world.gif" width="100%"/> -->
 
 <!-- # Hi there 👋 -->
@@ -19,12 +28,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩‍💻 I'm Patrícia do Nascimento. I'm a programmer and a data analyst from Sao Paulo - Brazil 🇧🇷
+👩‍💻 I'm Patrícia do Nascimento. I'm a programmer and a data analyst from Sao Paulo - Brazil 🇧🇷
 
 [![GitHub followers](https://img.shields.io/github/followers/pathilink?style=social)](https://www.github.com/pathilink)
 [![Linkedin Badge](https://img.shields.io/badge/-pathilink-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pathilink/)](https://www.linkedin.com/in/pathilink/)
 
-- 🌱 I've been focusing on:
+🌱 I've been focusing on:
 
 <p>
 
@@ -46,14 +55,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<center>
-<!-- <table> -->
-    <tr>
-        <td><img width="50%" align="center" margin="auto" display="block" src="https://github-readme-stats.vercel.app/api?username=pathilink&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></td>      
-        <td><img width="50%" align="center" margin="auto" display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathilink&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></td>
-    </tr>   
-<!-- </table> -->
-</center>
+
 
 <!-- ![Patrícia's github stats](https://github-readme-stats.vercel.app/api?username=pathilink&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 

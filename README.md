@@ -1,4 +1,4 @@
-![capa](https://github.com/pathilink/pathilink/blob/master/hello_world.gif)
+![capa](https://github.com/pathilink/pathilink/blob/master/hello.gif)
 
 <center>
     <table> 

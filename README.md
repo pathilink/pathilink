@@ -28,11 +28,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍💻 I'm Patrícia do Nascimento. I'm a programmer and a data analyst from Sao Paulo - Brazil 🇧🇷
+👩‍💻 I'm Patrícia do Nascimento. I'm a programmer and data analyst from Sao Paulo - Brazil 🇧🇷
 
 [![GitHub followers](https://img.shields.io/github/followers/pathilink?style=social)](https://www.github.com/pathilink)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpathilink%2Fhit-counter&count_bg=%23F782C2&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Linkedin Badge](https://img.shields.io/badge/-pathilink-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pathilink/)](https://www.linkedin.com/in/pathilink/)
+![Code like a girl](https://img.shields.io/badge/Code%20Like%20a%20Girl-%F0%9F%96%A4-blueviolet)
 
 🌱 I've been focusing on:
 
@@ -56,13 +57,9 @@ Here are some ideas to get you started:
 
 </p>
 
-
-
 <!-- ![Patrícia's github stats](https://github-readme-stats.vercel.app/api?username=pathilink&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathilink&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
-
 
 <!-- Purple Bliss - #360033, #0B8793 -->
 <!-- e96443,904e95 -->
@@ -70,3 +67,5 @@ Here are some ideas to get you started:
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
 
 <!-- https://simpleicons.org/ -->
+
+<!-- https://hits.seeyoufarm.com/#badge -->

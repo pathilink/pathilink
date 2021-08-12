@@ -53,6 +53,10 @@ Here are some ideas to get you started:
 
 <img alt="git" src="https://img.shields.io/badge/-Git-023e8a?style=flat&logo=git&logoColor=white" />
 
+<img alt="pyspark" src="https://img.shields.io/badge/-PySpark-023e8a?style=flat&logo=apachespark&logoColor=white" />
+
+<!-- <img alt="metabase" src="https://img.shields.io/badge/-Metabase-023e8a?style=flat&logo=metabase&logoColor=white" /> -->
+
 <!-- <img alt="r" src="https://img.shields.io/badge/-R-F05032?style=flat-square&logo=r&logoColor=white" /> -->
 
 </p>

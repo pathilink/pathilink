@@ -14,7 +14,7 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=pathilink&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=30,360033,b06ab3&title_color=fff&text_color=fff&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
 
   <img src="https://github-readme-stats.vercel.app/api?username=pathilink&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&border_radius=5&
-  &locale=en&hide_border=false" height="150" alt="stats graph"  />
+  locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathilink&locale=en&hide_title=false&layout=compact&card_width=390&langs_count=5&theme=buefy&border_radius=5&hide_border=false" height="150" alt="languages graph"  />
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pathilink&theme=buefy&border_radius=5&hide_border=false&fire=FFA500" height="150" alt="current streak"  />

@@ -12,9 +12,17 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pathilink&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=30,360033,b06ab3&title_color=fff&text_color=fff&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathilink&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=30,360033,b06ab3&title_color=fff&text_color=fff&hide_border=false" height="150" alt="languages graph"  />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pathilink&show_icons=true&theme=buefy)
 </div>
 
-<!-- <img align="center" alt="GIF" src="hello_world.gif" width="100%"/> -->
+<div aligh="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pathilink&theme=buefy)](https://git.io/streak-stats)
+
+</div>
+
+
 
 <!-- # Hi there 👋 -->
 
@@ -85,3 +93,5 @@ Here are some ideas to get you started:
 <!-- https://hits.seeyoufarm.com/#badge -->
 
 <!-- https://github.com/devicons/devicon/tree/v2.16.0/icons/ -->
+
+<!-- https://github-readme-streak-stats.herokuapp.com/demo/ -->

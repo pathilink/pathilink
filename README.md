@@ -12,6 +12,7 @@
 <div align="center">
 
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=pathilink&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=30,360033,b06ab3&title_color=fff&text_color=fff&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+
   <img src="https://github-readme-stats.vercel.app/api?username=pathilink&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&border_radius=5&
   &locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathilink&locale=en&hide_title=false&layout=compact&card_width=390&langs_count=5&theme=buefy&border_radius=5&hide_border=false" height="150" alt="languages graph"  />
@@ -74,13 +75,6 @@ Here are some ideas to get you started:
 </div>
 
 </p>
-
-<!-- ![Patrícia's github stats](https://github-readme-stats.vercel.app/api?username=pathilink&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathilink&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
-
-<!-- Purple Bliss - #360033, #0B8793 -->
-<!-- e96443,904e95 -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
 

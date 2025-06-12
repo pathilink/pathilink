@@ -1,42 +1,28 @@
-<div align="center">
+# <samp>Patrícia do Nascimento</samp> <img src="https://github.com/pathilink/pathilink/blob/master/HW_card.gif" width="30px" height="30px">
 
-![capa](https://github.com/pathilink/pathilink/blob/master/HW_card.gif)
+Hi 👋! I'm Patrícia do Nascimento, Brazilian 🇧🇷, and currently an Analytics Engineer. I'm interested about transforming data into meaningful insights that drive real impact.
 
-</div>
+I love solving problems through well-structured data pipelines and helping teams make better decisions with reliable and organized data. I believe that clarity in data leads to clarity in strategy.
 
-<h2 align="left"> Hi 👋! My name is Patrícia and I'm a Data Analyst from São Paulo - Brazil 🇧🇷</h2>
+- 🎓 I hold an MBA in Data Science & Analytics.
+- 💡 I’m always learning.
+- 🌊 I’m a swimmer, open water enthusiast, and a curious explorer — in sports and in life.
+- 🥾 I’ve hiked the Camino de Santiago and believe that discipline and patience take you far — both on trails and in projects.
+- 📊 I'm building a portfolio that reflects the data challenges I love to tackle.
 
-- Pronouns:  👩‍💻 She/Her
-- Hobbies: 🏊‍♀️ Swimming 🌊 Open Water 🥾 Hiking
+Let’s connect, share ideas, and build things that matter!
 
-<div align="center">
+<div align="left">
 
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=pathilink&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=30,360033,b06ab3&title_color=fff&text_color=fff&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
 
-  <img src="https://github-readme-stats.vercel.app/api?username=pathilink&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&border_radius=5&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=pathilink&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&border_radius=5&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathilink&locale=en&hide_title=false&layout=compact&card_width=390&langs_count=5&theme=buefy&border_radius=5&hide_border=false" height="150" alt="languages graph"  />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pathilink&theme=buefy&border_radius=5&hide_border=false&fire=FFA500" height="150" alt="current streak"  />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=pathilink&theme=buefy&border_radius=5&hide_border=false&fire=FFA500" height="150" alt="current streak"  /> -->
 
 </div>
 
-<!-- # Hi there 👋 -->
-
-<!--
-**pathilink/pathilink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 👩‍💻 I'm Patrícia do Nascimento. I'm a Data Analyst who develops code from São Paulo - Brazil 🇧🇷
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 🌱 I've been focusing on:
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
--->
 <br>
 
 [![GitHub followers](https://img.shields.io/github/followers/pathilink?style=social)](https://www.github.com/pathilink)
@@ -56,10 +42,12 @@ Here are some ideas to get you started:
 <!-- <img alt="r" src="https://img.shields.io/badge/-R-F05032?style=flat-square&logo=r&logoColor=white" /> -->
 
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" height="50" alt="apachespark logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/800px-AirflowLogo.png" height="30" alt="git logo" alt="airflow logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="jupyter logo"  />
   <img width="12" />
@@ -67,7 +55,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="50" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="r logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="50" alt="git logo"  />
 

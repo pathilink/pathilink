@@ -1,4 +1,4 @@
-# <samp>Patrícia do Nascimento</samp> <img src="https://github.com/pathilink/pathilink/blob/master/HW_card.gif" width="30px" height="30px">
+# <samp>Patrícia do Nascimento</samp> <img src="https://github.com/pathilink/pathilink/blob/master/HW_card.gif" width="50px" height="50px">
 
 Hi 👋! I'm Patrícia do Nascimento, Brazilian 🇧🇷, and currently an Analytics Engineer. I'm interested about transforming data into meaningful insights that drive real impact.
 
@@ -12,7 +12,7 @@ I love solving problems through well-structured data pipelines and helping teams
 
 Let’s connect, share ideas, and build things that matter!
 
-<div align="left">
+<div align="center">
 
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=pathilink&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=30,360033,b06ab3&title_color=fff&text_color=fff&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
 
@@ -24,12 +24,14 @@ Let’s connect, share ideas, and build things that matter!
 </div>
 
 <br>
+<div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/pathilink?style=social)](https://www.github.com/pathilink)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pathilink.pathilink)
 [![Linkedin Badge](https://img.shields.io/badge/-pathilink-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pathilink/)](https://www.linkedin.com/in/pathilink/)
 ![Code like a girl](https://img.shields.io/badge/Code%20Like%20a%20Girl-%F0%9F%96%A4-blueviolet)
 
+</div>
 <p>
 
 <!-- <img alt="python" src="https://img.shields.io/badge/-Python-023e8a?style=flat&logo=python&logoColor=white" />
